@@ -1,7 +1,7 @@
 from django.http import JsonResponse
 from django.shortcuts import render
 
-from test import calcii
+from chatbot.test import calcii
 
 # def train_chatbot_api(request):
 #     # Call your training function here
